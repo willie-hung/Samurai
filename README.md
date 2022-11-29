@@ -30,7 +30,7 @@ Press ```CTRL```, you can cast your magic spell. The magic damage depends on you
 <img src="/assets/attack/heal.jpeg" width="50"/> <img src="/assets/attack/fire_magic.png" height="50"/>
 
 ### Weapons
-There are total ```4``` weapons right now. I will be updating new weapons in the future. <br>
+There are total ```5``` weapons right now. I will be updating new weapons in the future. <br>
 <img src="/assets/axe.png" width="30"/>  <img src="/assets/sword.png" width="15"/> <img src="/assets/rapier.png" width="25"/> <img src="/assets/lance.png" width="10"/> <img src="/assets/sai.png" width="20"/>
 ### Monsters
 There are total ```5``` monsters right now. I will be updating new monsters in the future. <br>
