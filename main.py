@@ -7,7 +7,7 @@ class Game:
         pygame.init()
         # draw all the things on screen
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
-        pygame.display.set_caption('Zelda')
+        pygame.display.set_caption('Samurai')
         self.clock = pygame.time.Clock()
     
         self.level = Level()
